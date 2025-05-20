@@ -4,7 +4,7 @@
 
 I am best described as a **Hobbyist** when it comes to programming. This is not my job, nor do I plan to ever work in CS. I program for fun and my language/project choice reflects that.
 
-Most of my projects are not really going to be useful to anyone else, but feel free to use them if you wish.  
+Most of my projects are not really going to be useful to anyone else, but feel free to use them if you wish.
 Unless explicitly stated in the repo, all projects are under the [GNU License](https://www.gnu.org/licenses/gpl-3.0.html).
 
 ---
