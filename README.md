@@ -9,7 +9,7 @@ For more about me read the [About Me Page](https://eli-watson.github.io/Home/Pag
 
 ---
 
-## Stats _(for the people who care)_
+## Stats
 
 ![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eli-Watson&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli-Watson&layout=donut&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
