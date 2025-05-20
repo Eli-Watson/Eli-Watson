@@ -1,5 +1,12 @@
+<h2>Eli Watson's Github Profile:</h2>
+<h3>About Me</h3>
+<p>I am best described as a Hobbyist when it comes to programming. This is not my job nor do I plan to ever work in CS. I program for fun and my language/project choice reflects that. I have the most experince in webdev, with HTML, JS, and CSS, But latley I have been tinkering around with Python, and C. Most of my projects are not really going to be useful to anyone else but feel free to use them if you wish, If not explicitly stated in the repo all projects are under the GNU license.</p>
+<h3>Stats:</h3>
+<p>(For the People who care)</p>
 ![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eli-Watson&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli-Watson&layout=donut&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<h3>Standout/Favoire Projects:</h3>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eli-Watson&repo=SEMGraph)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Eli-Watson/Eli-Watson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
