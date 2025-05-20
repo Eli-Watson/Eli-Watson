@@ -1,6 +1,6 @@
 # Eli Watson's GitHub Profile
 
-# About me
+## About me
 I am best described as a **Hobbyist** when it comes to programming. This is not my job, nor do I plan to ever work in CS. I program for fun and my language/project choice reflects that.
 
 Most of my projects are not really going to be useful to anyone else, but feel free to use them if you wish.
