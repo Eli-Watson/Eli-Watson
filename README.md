@@ -4,9 +4,9 @@ I am best described as a Hobbyist when it comes to programming. This is not my j
 ### Stats:
 #### (For the People who care)
 ![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eli-Watson&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli-Watson&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli-Watson&layout=donut&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 ### Standout/Favorite Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eli-Watson&repo=SEMGraph)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eli-Watson&repo=SEMGraph&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Eli-Watson/Eli-Watson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
