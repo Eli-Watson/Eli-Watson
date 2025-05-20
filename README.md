@@ -1,6 +1,6 @@
 # Eli Watson's GitHub Profile
 
-## 🧠 About Me
+## About Me
 
 I am best described as a **Hobbyist** when it comes to programming. This is not my job, nor do I plan to ever work in CS. I program for fun and my language/project choice reflects that.
 
@@ -9,13 +9,12 @@ Unless explicitly stated in the repo, all projects are under the [GNU License](h
 
 ---
 
-## 📊 Stats _(for the people who care)_
+## Stats _(for the people who care)_
 
 ![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eli-Watson&show_icons=true&theme=gruvbox)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli-Watson&layout=donut&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-🛠️ Want to see some of my projects?  
+Want to see some of my projects?  
 Check out my pinned repositories below or scroll through the rest of my GitHub activity!
