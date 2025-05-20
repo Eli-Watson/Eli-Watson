@@ -1,4 +1,4 @@
-[![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eli-Watson)](https://github.com/anuraghazra/github-readme-stats icons=true&theme=dark)
+![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eli-Watson&show_icons=true&theme=radical)
 
 <!--
 **Eli-Watson/Eli-Watson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
