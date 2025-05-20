@@ -17,4 +17,4 @@ Unless explicitly stated in the repo, all projects are under the [GNU License](h
 ---
 
 Want to see some of my projects?  
-Check out my pinned repositories below or scroll through the rest of my GitHub activity!
+Check out my pinned repositories below or scroll through the rest of my GitHub activity.
