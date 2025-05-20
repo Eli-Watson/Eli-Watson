@@ -15,6 +15,3 @@ Unless explicitly stated in the repo, all projects are under the [GNU License](h
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli-Watson&layout=donut&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-Want to see some of my projects?  
-Check out my pinned repositories below or scroll through the rest of my GitHub activity.
